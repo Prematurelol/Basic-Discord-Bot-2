@@ -42,4 +42,4 @@ module.exports = {
 
 ### HOSTING
 
-https://repl.it/badge/github/lunardev/GithubDiscordBot
+
