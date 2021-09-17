@@ -42,4 +42,4 @@ module.exports = {
 
 ### HOSTING
 
-![Repl.it](https://replit.com/@lunardev/GithubDiscordBot?v=1)
+![https://replit.com/@lunardev/GithubDiscordBot?v=1](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
